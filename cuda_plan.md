@@ -51,7 +51,7 @@
    - Matrix multiplication
    - Image processing filters
    - N-body simulation
-   - Ray tracing
+   - Ray tracing.
 
 ## Practical Tips
 - Install CUDA Toolkit and set up your development environment
